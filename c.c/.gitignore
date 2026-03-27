@@ -13,7 +13,7 @@
 *.lastbuildstate
 
 # --- Configurações do VS Code ---
-.vscode/
+*.vscode/
 
 # --- Outros ---
 *.log
