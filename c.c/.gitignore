@@ -1,0 +1,19 @@
+# --- Executáveis e Binários ---
+*.exe
+*.out
+*.app
+*.o
+*.obj
+
+# --- Arquivos de depuração e build do compilador (MSVC/GCC) ---
+*.ilk
+*.pdb
+*.idb
+*.tlog
+*.lastbuildstate
+
+# --- Configurações do VS Code ---
+.vscode/
+
+# --- Outros ---
+*.log
