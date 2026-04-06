@@ -1,0 +1,2 @@
+1|O pequeno principe|Jose da Silva|9.99
+2|Vidas Secas|Jeane Caldeiras|35.00
