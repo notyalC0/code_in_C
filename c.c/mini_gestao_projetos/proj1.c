@@ -79,8 +79,9 @@ void buscar()
   {
     if (lista[i].numeroMat == mat)
     {
-      printf("\nAluno encontrado: %s | Media: %.2f | Status: %s\n",
-             lista[i].nome, lista[i].media, lista[i].situacao);
+      printf(
+        "\nAluno encontrado: %s | Media: %.2f | Status: %s\n",
+        lista[i].nome, lista[i].media, lista[i].situacao);
       achou = 1;
       break;
     }
